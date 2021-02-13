@@ -1,7 +1,9 @@
-[![Social banner for its-arpit align='center' ](https://github.com/its-arpit/its-arpit/blob/main/intro.gif?raw=true)](https://imarpitk.xyz)
+<p align="center">
+  <img width="850" height="300" src="https://github.com/its-arpit/its-arpit/blob/main/intro.gif?raw=true">
+</p>
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Jhey.
+I'm Arpit.
 </p>
 <p align='center'>For enquiries, reach out @ imarpitk.xyz or over on <a href="https://twitter.com/arrpitk">Twitter</a>.</p>
 
