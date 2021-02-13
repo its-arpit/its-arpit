@@ -1,4 +1,4 @@
-[![Social banner for its-arpit](https://github.com/its-arpit/its-arpit/blob/main/intro.gif?raw=true)](https://imarpitk.xyz)
+[![Social banner for its-arpit align='center' ](https://github.com/its-arpit/its-arpit/blob/main/intro.gif?raw=true)](https://imarpitk.xyz)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey.
