@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Kashyap</h1>
 <h3 align="center">A passionate Full Stack Engineer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/arrpit" target="blank"><img src="https://img.shields.io/twitter/follow/arrpit?logo=twitter&style=for-the-badge" alt="arrpit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arrpitk" target="blank"><img src="https://img.shields.io/twitter/follow/arrpitk?logo=twitter&style=for-the-badge" alt="arrpitk" /></a> </p>
 
 - 🔭 I’m currently working on **Fuel API**
 
