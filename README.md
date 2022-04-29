@@ -2,7 +2,7 @@
   <img width="850" height="300" src="https://github.com/its-arpit/its-arpit/blob/main/intro.gif?raw=true">
 </p>
 <h1 align="center">Hi 👋, I'm Arpit Kashyap</h1>
-<h3 align="center">A passionate Full Stack Engineer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <a href="https://twitter.com/arrpitk" target="blank"><img src="https://img.shields.io/twitter/follow/arrpitk?logo=twitter&style=for-the-badge" alt="arrpitk" /></a> </p>
 
